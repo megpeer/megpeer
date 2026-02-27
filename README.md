@@ -1,7 +1,11 @@
 # Hello There!
 
 Welcome to my GitHub page. 
-I am a Ruby on Rails developer based in Ottawa, Canada looking for my next role, please do not hesitate to [shoot me an email!](mailto:megimu@gmail.com)
+I am a full stack Ruby on Rails developer based in Ottawa, Canada. 
+I have backend experience with RESTful APIs, PostgreSQL, as well as unit and integration testing using RSpec.
+For front-end development, I work with Hotwire (Turbo + Stimulus), JavaScript, HTML, and Tailwind/Bulma CSS.
+I am comfortable with using Git workflows, command-line development on macOS or linux, and deploying applications to Render.
+I am looking for my next role, please do not hesitate to [shoot me an email!](mailto:megimu@gmail.com)
 
 ## Projects
 ### "ForceBook"
